@@ -1,4 +1,4 @@
-//This is where the date struct are defined to be used in the project
+//This is where the data struct are defined to be used in the project
 use anchor_lang::prelude::*;
 
 #[account]
