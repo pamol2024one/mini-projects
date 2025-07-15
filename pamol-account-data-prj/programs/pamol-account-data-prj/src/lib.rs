@@ -10,7 +10,7 @@ pub mod errors;
 pub mod state;
 pub mod instructions;
 //Import the project items which are stored in different files accessible here
-use crate::{constants::*, errors::*, state::*, instructions::*};
+use crate::{instructions::*};
 
 #[program]
 pub mod pamol_account_data_prj {
